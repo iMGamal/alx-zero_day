@@ -31,3 +31,6 @@ How to commit
 * How to merge branches
 * How to work as collaborators on a project
 Which files should and which files should not appear in your repo
+
+
+## One time task: Edit README file on Github interface
